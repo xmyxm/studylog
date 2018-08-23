@@ -1,0 +1,23 @@
+{
+  "name": "studylog",
+  "version": "1.0.0",
+  "description": "commit学习",
+  "main": "index.js",
+  "dependencies": {
+    "commitizen": "^2.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmyxm/studylog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xmyxm/studylog/issues"
+  },
+  "homepage": "https://github.com/xmyxm/studylog#readme"
+}
