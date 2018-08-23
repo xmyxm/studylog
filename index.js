@@ -1,4 +1,8 @@
-console.log('学习')
+function start(){
+    console.log('学习')
+}
+
+start()
 
 
 
